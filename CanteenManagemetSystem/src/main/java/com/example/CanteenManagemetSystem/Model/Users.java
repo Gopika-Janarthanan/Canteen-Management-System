@@ -1,4 +1,4 @@
-package com.example.CMS.CanteenManagemetSystem.Model;
+package com.example.CanteenManagemetSystem.Model;
 
 import jakarta.persistence.*;
 import lombok.Data;
